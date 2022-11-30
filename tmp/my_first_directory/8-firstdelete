@@ -1,0 +1,4 @@
+#!/bin/bash
+rm betty
+echo why?
+
