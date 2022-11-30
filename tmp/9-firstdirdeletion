@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -r my_first_directory
+echo why?
+
