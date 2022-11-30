@@ -1,0 +1,5 @@
+#!/bin/bash
+echo root@0f01837a3772:~/0x00-shell_basics# pwd
+echo /root/0x00-shell_basics
+ 
+echo why?
