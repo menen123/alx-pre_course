@@ -1,0 +1,4 @@
+#!/bin/bash
+file iamafile
+echo why?
+
